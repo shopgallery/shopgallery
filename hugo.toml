@@ -1,4 +1,4 @@
-baseURL = 'https://shopgallery.gitlab.io/shopgallery/'
+baseURL = 'https://shopgallery.frama.io/shopgallery/'
 title = "Gallery"
 languageCode = "en-us"
 copyright = "© Your Name"
