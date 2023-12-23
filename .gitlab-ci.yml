@@ -10,6 +10,9 @@ test:
 
 pages:
   script:
-  - hugo --minify && gzip -k -6 $(find public -type f)  
+  - hugo --minify
+  artifacts:
+    paths:
+    - public
   only:
   - main
