@@ -1,1 +1,1 @@
-# Example site for hugo-theme-gallery
+# Shop gallery

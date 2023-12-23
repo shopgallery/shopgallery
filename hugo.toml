@@ -1,11 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://shopgallery.gitlab.io/shopgallery/'
 title = "Gallery"
 languageCode = "en-us"
 copyright = "© Your Name"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "Asia/Tehran"
 theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
 
 [params]
@@ -36,6 +36,6 @@ theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
+  name = "WhatsApp"
   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
   weight = 3

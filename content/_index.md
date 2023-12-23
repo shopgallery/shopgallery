@@ -1,5 +1,5 @@
 ---
-title: Hugo Gallery
+title: Shop Gallery
 linktitle: Home
 description: An example site for hugo-theme-gallery. Images from Unsplash.
 #lastmod: 2023-07-05
