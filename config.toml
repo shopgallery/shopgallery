@@ -12,7 +12,7 @@ timeout = 6000
 [params]
   title = "My Gallery"
   description = "Example site for hugo-theme-gallery"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [author]
   name = "Your Name"
